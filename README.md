@@ -15,4 +15,4 @@ Features:
 
 Note: I realised the issue with code very quickly. 
 
-The Deployed Link: https://AntoineFord.github.io/Horiseon_Land_Page/ 
+The Deployed Link: https://antoineford.github.io/Horiseon_Land_Page/
