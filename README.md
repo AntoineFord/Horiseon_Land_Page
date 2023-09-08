@@ -14,3 +14,5 @@ Features:
 ![Assignment 1](https://github.com/AntoineFord/Horiseon_Land_Page/assets/130304994/1934b971-d916-47c5-b38a-aa9580f80989)
 
 Note: I realised the issue with code very quickly. 
+
+The Deployed Link: https://github.com/AntoineFord/Horiseon_Land_Page 
